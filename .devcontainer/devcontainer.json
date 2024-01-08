@@ -9,6 +9,7 @@
     },
     // Add the IDs of extensions you want installed when the container is created.
     "extensions": [
+        "msjsdiag.vscode-react-native"
     ],
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
     // "forwardPorts": [],
