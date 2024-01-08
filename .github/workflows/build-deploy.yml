@@ -24,7 +24,7 @@ jobs:
       - name: Uploading production-ready build files
         uses: actions/upload-artifact@v4
         with:
-          name: production-files
+          name: github-pages
           path: ./github-pages
   deploy:
     needs: build
