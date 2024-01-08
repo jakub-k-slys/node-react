@@ -15,7 +15,7 @@
 
 # production
 /build
-/guthub-pages
+/github-pages
 
 # misc
 .DS_Store
